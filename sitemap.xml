@@ -6,10 +6,9 @@
       <priority>1.0</priority>
       <changefreq>daily</changefreq>
    </url>
-
    <url>
   <loc>https://www.luminateacademy.com/index.html</loc>
-  <video:video>
+  <video:video xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
     <video:thumbnail_loc>https://www.luminateacademy.com/assets/images/video-item-bg.jpg</video:thumbnail_loc>
     <video:title>Welcome to Luminate Academy</video:title>
     <video:description>Where we brighten your path to success through innovative education and personalized guidance. Our mission is to empower learners with the knowledge, skills, and confidence they need to achieve their dreams and make a lasting impact.</video:description>
